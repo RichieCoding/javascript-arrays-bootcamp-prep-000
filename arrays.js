@@ -21,3 +21,4 @@ function addElementToEndOfArray(array, element) {
 function destructivelyAddElementToEndOfArray(array, element) {
   return [array, ...element];
 }
+
